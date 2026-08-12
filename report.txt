@@ -1,0 +1,33 @@
+==============================================
+NETWORK STATUS ANALYSIS REPORT
+==============================================
+
+[SOURCE FILE]
+network_info.txt
+
+[COMPUTER NAME]
+AHAD-PC
+
+[IPV4 ADDRESSES]
+IPv4 Address. . . . . . . . . . . : 192.168.1.10
+
+[SUBNET MASKS]
+Subnet Mask . . . . . . . . . . . : 255.255.255.0
+
+[MAC ADDRESSES]
+Physical Address. . . . . . . . . : XX-XX-XX-XX-XX-XX
+
+[DEFAULT GATEWAY]
+Default Gateway . . . . . . . . . : 192.168.1.1
+
+[NETWORK CONNECTIVITY TEST]
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss)
+
+[DNS TEST]
+Name: example.com
+Address: 93.184.216.34
+
+==============================================
+END OF REPORT
+==============================================
